@@ -1,0 +1,102 @@
+body {
+    padding: 10px;
+    margin: auto;
+}
+
+img {
+    width: 30%;
+    height: 30%;
+}
+
+#mainDiv1 {
+    display: flex;
+    height: 30%;
+}
+
+#myDiv1 {    
+    flex-direction: column;
+    margin: 10px;
+    width: 33%;
+}
+
+#myDiv2 {  
+    flex-direction: column;
+    width: 33%;
+    margin: 10px;
+    padding-left: 20px;
+}
+
+
+#myDiv2 h2{
+    text-align: center;
+}
+
+#myDiv3 {
+    flex-direction: column;
+    width: 33%;   
+    margin: 10px;
+}
+
+#mainDiv2 {
+    display: flex;
+    margin-top: 10px;
+    height: 30%;
+}
+
+
+#myDiv4 { 
+    flex-direction: column;
+    margin: 10px;
+    width: 33%;
+    padding: 10px;    
+}
+
+#myDiv5 {
+    flex-direction: column;
+    width: 33%;
+    margin: 10px;
+}
+
+#myDiv6 {
+    flex-direction: column;
+    width: 33%;   
+    margin: 10px;
+}
+
+#mainDiv3 {    
+    display: flex;
+    margin-top: 10px;
+    height: 30%;
+}
+
+#myDiv7 {   
+    flex-direction: column;
+    margin: 10px;
+    width: 33%;
+}
+
+#myDiv8 { 
+    flex-direction: column;
+    width: 33%;
+    margin: 10px;
+}
+
+#myDiv9 {
+    flex-direction: column;
+    width: 33%;  
+    margin: 10px;
+}
+
+#myDiv9 img{
+    float: right;
+}
+
+#para6{
+    padding-left: 50%;
+    padding-top: 10%;
+}
+
+#myDiv5{
+    padding-left: 5%;
+   
+}
